@@ -26,7 +26,7 @@ body{
     margin: 1px;
     font-size: 1rem;
     padding: 1px 3px;
-    transition: all 1.07s ease;
+    transition: all .1s ease;
     width: 10rem;
     text-align: center;
     color: white;
